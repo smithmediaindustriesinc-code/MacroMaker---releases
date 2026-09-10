@@ -1,0 +1,10 @@
+[
+  {
+    "version": "0.1.0",
+    "channel": "beta",
+    "date": "2026-09-10",
+    "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.1.0/MacroMakerSetup0.1.0.exe",
+    "sha256": "bb3182be3e7d70414c2ab75590157e971f54620475fbd7f8b5e395a5bbcb8ea7",
+    "notes": "First public beta. Macro recorder/player, built-in auto-clicker, plain-text .mmac format, Manual Maker editor, Saved Macros library, Settings, and a Version tab with in-app updater + Developer sub-tab."
+  }
+]
