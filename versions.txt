@@ -1,3 +1,4 @@
 # MacroMaker releases - consumed by the installer bootstrapper (MacroMakerInstaller.exe).
 # Format, newest first:  version|channel|installer_url|sha256|date|notes
+0.2.0|beta|https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.2.0/MacroMakerSetup0.2.0.exe|610dc443d3a571f9c8d1a08785f9039590be8baeb5355ad54eebe0358690890a|2026-09-11|Redesigned UI + new icon + playback focus fix.
 0.1.0|beta|https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.1.0/MacroMakerSetup0.1.0.exe|bb3182be3e7d70414c2ab75590157e971f54620475fbd7f8b5e395a5bbcb8ea7|2026-09-10|First public beta.
