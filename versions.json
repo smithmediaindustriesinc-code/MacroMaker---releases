@@ -1,11 +1,19 @@
 [
   {
+    "version": "0.2.1",
+    "channel": "beta",
+    "date": "2026-09-11",
+    "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.2.1/MacroMakerSetup0.2.1.exe",
+    "sha256": "4a35a275a29ef4a20d2cc6a85e79b0a3a36d27ff6b4b040e1ff57b7735077691",
+    "notes": "Fixes 0.2.0 launching to no window (the redesigned window was created hidden and never shown). Also defaults to the dark theme."
+  },
+  {
     "version": "0.2.0",
     "channel": "beta",
     "date": "2026-09-11",
     "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.2.0/MacroMakerSetup0.2.0.exe",
     "sha256": "610dc443d3a571f9c8d1a08785f9039590be8baeb5355ad54eebe0358690890a",
-    "notes": "Redesigned UI (CustomTkinter, dark futuristic look), new high-detail icon, and a playback fix: Play now counts down so you can click the target window (the global hotkey plays instantly)."
+    "notes": "Redesigned UI (CustomTkinter, dark futuristic look), new high-detail icon, and a playback fix: Play now counts down so you can click the target window (the global hotkey plays instantly). NOTE: 0.2.0 can launch to no visible window on some setups - use 0.2.1."
   },
   {
     "version": "0.1.0",
