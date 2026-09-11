@@ -1,5 +1,13 @@
 [
   {
+    "version": "0.5.0",
+    "channel": "beta",
+    "date": "2026-09-11",
+    "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.5.0/MacroMakerSetup0.5.0.exe",
+    "sha256": "abf7b3d90f489e49e8a0d32be6863b6be0fedc2edc4efc8e722f0774c7eac880",
+    "notes": "New: key/mouse remapping (Settings > Advanced, live), Auto Clicker's global hotkey/tray can now actually start it, dropdown typeahead, a Minimize/Close/Cancel close dialog, Manual Maker gets Load/Save/Copy-as-text/Start-after-last-action/Format-help, clearer mouse-button labels. Bugs fixed: a plain Save now renames the file to match the macro's Name; the real 'can't type in Auto Clicker' cause (segmented-button mode switches crashed on every real click); a reused dropdown popup could reopen invisibly behind the window; Saved Macros no longer freezes the app after a big save; light-mode selection highlight was nearly invisible; window title no longer shows a version number. Deep-scan: 5 settings that were fully wired in the UI but never did anything now actually work (log level, log size limit, start with Windows, large controls, confirm overwrite on import)."
+  },
+  {
     "version": "0.4.0",
     "channel": "beta",
     "date": "2026-09-11",
