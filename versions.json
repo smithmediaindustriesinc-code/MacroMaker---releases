@@ -1,5 +1,13 @@
 [
   {
+    "version": "0.3.0",
+    "channel": "beta",
+    "date": "2026-09-11",
+    "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.3.0/MacroMakerSetup0.3.0.exe",
+    "sha256": "a0545169230953058be28ea48ea9fc3323cc6d12c56c0f36ada5d6ad94eaf7de",
+    "notes": "Every setting now has a hover tooltip (incl. Auto Clicker). Fixed: the updater's 'unable to close all applications' message, dark-mode cyan/white contrast on segmented buttons, a settings-corruption bug that could wipe a whole settings section over one bad value, the auto-clicker's hold not being instantly cancellable, and the abort safety-net not honoring the scancode setting. New: hotkey-conflict warnings + a Test-hotkey button, pause between repeat/loop passes, Export/Import Everything (one .zip with settings+presets+macros), automatic macro backups on save, and pixel-color-triggered auto-clicking."
+  },
+  {
     "version": "0.2.3",
     "channel": "beta",
     "date": "2026-09-11",
