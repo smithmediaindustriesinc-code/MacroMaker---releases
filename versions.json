@@ -1,5 +1,13 @@
 [
   {
+    "version": "0.2.2",
+    "channel": "beta",
+    "date": "2026-09-11",
+    "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.2.2/MacroMakerSetup0.2.2.exe",
+    "sha256": "d381ec21b3b38b92f6cf49e06347301f20ce200e57da5d264233347d19d30736",
+    "notes": "Left sidebar navigation (top tab bar and menu bar removed; File/Help actions moved to the Version tab). Every dropdown is now scrollable and updates correctly. Mouse wheel over a slider scrolls the page instead of changing the value. A one-line tooltip on every Settings control after a ~1s hover."
+  },
+  {
     "version": "0.2.1",
     "channel": "beta",
     "date": "2026-09-11",
@@ -13,7 +21,7 @@
     "date": "2026-09-11",
     "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.2.0/MacroMakerSetup0.2.0.exe",
     "sha256": "610dc443d3a571f9c8d1a08785f9039590be8baeb5355ad54eebe0358690890a",
-    "notes": "Redesigned UI (CustomTkinter, dark futuristic look), new high-detail icon, and a playback fix: Play now counts down so you can click the target window (the global hotkey plays instantly). NOTE: 0.2.0 can launch to no visible window on some setups - use 0.2.1."
+    "notes": "Redesigned UI (CustomTkinter, dark futuristic look), new high-detail icon, and a playback fix: Play now counts down so you can click the target window (the global hotkey plays instantly). NOTE: 0.2.0 can launch to no visible window on some setups - use 0.2.2."
   },
   {
     "version": "0.1.0",
