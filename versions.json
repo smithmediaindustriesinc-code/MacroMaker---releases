@@ -1,5 +1,13 @@
 [
   {
+    "version": "0.2.3",
+    "channel": "beta",
+    "date": "2026-09-11",
+    "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.2.3/MacroMakerSetup0.2.3.exe",
+    "sha256": "bb355580151aced6f2a19af5c81611a1f1176bc4739a90d023b67787d94d45b8",
+    "notes": "Fixed the border that was drawing a 1px outline on every panel (the 'weird lines' and the sidebar-header glitch), equal light/dark theming, high-contrast text on the Record/Stop/Delete buttons, Settings values realigned to the left. Also: the in-app updater now actually quits the app after launching an installer; the recording countdown can be cancelled with Stop/Abort (it silently couldn't before); Send-scancodes and Playback-tail settings now apply live instead of needing a restart; both countdowns cancel instantly instead of after up to 1s; minor hotkey and double-start race fixes."
+  },
+  {
     "version": "0.2.2",
     "channel": "beta",
     "date": "2026-09-11",
@@ -21,7 +29,7 @@
     "date": "2026-09-11",
     "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.2.0/MacroMakerSetup0.2.0.exe",
     "sha256": "610dc443d3a571f9c8d1a08785f9039590be8baeb5355ad54eebe0358690890a",
-    "notes": "Redesigned UI (CustomTkinter, dark futuristic look), new high-detail icon, and a playback fix: Play now counts down so you can click the target window (the global hotkey plays instantly). NOTE: 0.2.0 can launch to no visible window on some setups - use 0.2.2."
+    "notes": "Redesigned UI (CustomTkinter, dark futuristic look), new high-detail icon, and a playback fix: Play now counts down so you can click the target window (the global hotkey plays instantly). Superseded by 0.2.3."
   },
   {
     "version": "0.1.0",
