@@ -1,5 +1,13 @@
 [
   {
+    "version": "0.4.0",
+    "channel": "beta",
+    "date": "2026-09-11",
+    "installer_url": "https://github.com/smithmediaindustriesinc-code/MacroMaker---releases/releases/download/v0.4.0/MacroMakerSetup0.4.0.exe",
+    "sha256": "70b2c07ca249b14f8191db5806c46fef940df62e382326b4a127317abe631395",
+    "notes": "Fixed background processes/leftover instances (daemon tray thread, hard process exit, single-instance guard), hotkey labels on Record/Play/Auto-clicker, Play/Stop consolidated into a real toggle, Record/Play/Auto-clicker made properly mutually exclusive, Clear macro + Clear activity + Restart actions, a high-contrast border regression, a Settings-saved toast, and the real root cause of 'can't type in Auto Clicker' (a segmented-button click crash that left fields permanently disabled after switching modes). New: Show mode overlay (Settings > Appearance, applies live). Hardening: replaced the dev-gate password, added size/count/time bounds to .mmac import. Optimizations: dropdown and table widgets no longer rebuild from scratch on every refresh."
+  },
+  {
     "version": "0.3.0",
     "channel": "beta",
     "date": "2026-09-11",
